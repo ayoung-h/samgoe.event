@@ -1,0 +1,29 @@
+.nav {
+    height : 70px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .nav-items {
+    display: flex;
+    margin-left: auto;
+    margin-right: 10px;
+  }
+  
+  .nav-item {
+    margin-left: 10px;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  .subtitle {
+    text-align: left;
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: 300;
+  }
